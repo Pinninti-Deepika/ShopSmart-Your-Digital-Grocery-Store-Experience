@@ -1,0 +1,49 @@
+.custom-navbar {
+    min-height: 70px;
+    padding: 0 40px;
+    background: linear-gradient(135deg, #00c9a7, #00b894);
+}
+
+.admin-navbar {
+    background: linear-gradient(135deg, #ff4d4d, #cc0000);
+}
+
+.brand-logo {
+    font-size: 22px;
+    font-weight: bold;
+    color: rgb(7, 7, 7);
+}
+
+/* Normal nav links */
+.nav-links .nav-link {
+    color: rgb(23, 23, 23);
+    font-weight: 500;
+    margin-left: 20px;
+}
+
+/* USER LOGIN BUTTON */
+.login-btn {
+    background: white;
+    color: #00b894;   /* removed !important */
+    padding: 6px 16px;
+    border-radius: 25px;
+    font-weight: 600;
+}
+
+/* ADMIN BUTTON */
+.admin-btn {
+    background: rgb(255, 254, 254);
+    color: white;
+    padding: 6px 16px;
+    border-radius: 25px;
+    font-weight: 600;
+}
+
+/* LOGOUT BUTTON */
+.logout-btn {
+    background: white;
+    color: red;
+    padding: 6px 16px;
+    border-radius: 25px;
+    font-weight: 600;
+}
