@@ -1,6 +1,7 @@
 # ShopSmart-Your-Digital-Grocery-Store-Experience
 
 Features:
+
 o User Management: 
 Secure User Registration and Login/Logout functionality. 
 Password hashing for security. 
